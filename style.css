@@ -1,0 +1,85 @@
+/*.box {
+  height: auto;
+  padding: 10px;
+  color: #fff;
+  background: deepskyblue;
+}
+
+.margin-top-80 {
+  margin-top: 80px;
+/* }
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed 
+  }
+  */
+
+
+/* 
+  /* * {
+    box-sizing: border-box;
+  } 
+   .graybox { 
+    height: auto;
+    padding: 10px; 
+    color: black;
+    background-color:#D3D3D3; 
+   } 
+      /* Block display (more on this later) 
+
+    .img {
+      
+        Center a block element in the middle of its enclosing tag.
+        When you use the "auto" rule on both left and right margins, 
+        your browser will do the math necessary to center a block element.
+        
+      padding: 5px 10px 5px 10px
+      margin-left: auto;
+      margin-right: auto;
+      /* Block display (more on this later) 
+      display: block;
+    }
+
+    .side-img {
+      float: left;
+      width: 200px;
+      height: 135px;
+      margin-bottom: 10px;     
+    }
+    
+    .main-img {
+    
+      width: 100%;
+    } 
+    */
+
+    /* .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+    .navbar div{
+      margin: inherit; 
+      background-color: white;  
+  }
+
+  .navbar-brand{
+      padding: 10px !important; 
+  }
+      
+  button{
+      margin-right: 30px; 
+  }
+  
+  button:focus {
+  
+      outline: 1px dotted;
+      outline: 5px auto -webkit-focusring-color;
+      }
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+} */ 
